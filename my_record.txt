@@ -1,0 +1,5 @@
+
+This tetx was added by feature branch
+This test2 was added by master branch
+I'm gradually getting the hang of Git
+Added a line to my_recorded.txt by test_two
